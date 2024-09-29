@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:spotify_app/core/configs/assets/app_vectors.dart';
-import 'package:spotify_app/ui/intro/get_started.dart';
+import 'package:spotify_app/presentation/intro/get_started.dart';
 
 class SplashPage extends StatefulWidget {
   const SplashPage({super.key});
